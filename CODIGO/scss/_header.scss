@@ -1,0 +1,25 @@
+header {
+    background-color: $primary-color;
+    color: white;
+    padding: 1rem;
+
+    h1 {
+        text-align: center;
+        margin: auto;
+    }
+
+    nav ul {
+        @include flex-center;
+        list-style: none;
+
+        li {
+            margin: 0 1rem;
+
+            a {
+                color: white;
+                font-weight: bold;
+                @include transition(color, 0.3s);
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+@import 'variables';
+@import 'mixins';
+@import 'reset';
+@import 'header';
+@import 'products';
+@import 'lists';
+@import 'footer';
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: $background-color;
+}
+
+h1, h2, h3 {
+    color: $primary-color;
+}
+
+a {
+    text-decoration: none;
+    color: $link-color;
+
+    &:hover {
+        color: darken($link-color, 10%);
+    }
+}
