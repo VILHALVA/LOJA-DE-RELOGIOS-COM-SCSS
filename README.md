@@ -1,7 +1,7 @@
 # LOJA DE RELOGIOS COM SCSS
 👨‍🏫INTERFACE "LOJA DE VENDA DE RELOGIOS" COM HTML/CSS/SCSS.
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br>
