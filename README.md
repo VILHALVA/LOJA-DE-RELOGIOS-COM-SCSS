@@ -1,12 +1,12 @@
 # LOJA DE RELOGIOS COM SCSS
 👨‍🏫INTERFACE "LOJA DE VENDA DE RELOGIOS" COM HTML/CSS/SCSS.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_06.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO
 Este é um aplicativo web de uma loja de vendas de relógios, onde os usuários podem visualizar uma coleção de relógios disponíveis para compra. A página inclui detalhes e descrições dos produtos, imagens e links para compras externas. O site utiliza HTML para estrutura e conteúdo, e SCSS para estilização, garantindo um design moderno e responsivo.
